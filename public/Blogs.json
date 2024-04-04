@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/0hsH7Dx/man-composer-producer-arranger-songwriter-musician-hands-arranging-music.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/vVN5Ctx/161677893-289417855883145-3617900277534792447-n.jpg",
+      "posted_date": "2024-04-01",
+      "reading_time": 10,
+      "hashtag": "#Lorem #Ipsum #Reading"
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/hfQkFT9/laptop-half-closed-dark-with-colourful-glow-cup-coffee-glasses.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/HGSQ5vn/316543954-3400880860195514-65960279327862737-n.jpg",
+      "posted_date": "2024-03-30",
+      "reading_time": 8,
+      "hashtag": "#Random #Thoughts #Writing"
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/VSsMFDF/7310825.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "David Johnson",
+      "author_img": "https://i.ibb.co/pzXftYR/318205623-756764799138421-6559510279318202607-n.jpg",
+      "posted_date": "2024-03-28",
+      "reading_time": 15,
+      "hashtag": "#Nature #Exploration #Adventure"
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/gWngFdZ/6568044.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Emily Wilson",
+      "author_img": "https://i.ibb.co/PcyvB04/425729630-779093740914489-88362804609546993-n.jpg",
+      "posted_date": "2024-03-25",
+      "reading_time": 12,
+      "hashtag": "#Cooking #Recipes #Foodie"
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/3MnC0xR/6019002.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/dM2280T/432585165-18422791237006852-8358679973172565392-n.jpg",
+      "posted_date": "2024-03-20",
+      "reading_time": 20,
+      "hashtag": "#Technology #Innovation #Trends"
+    }
+  ]
