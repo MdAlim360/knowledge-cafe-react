@@ -6,7 +6,7 @@ import PropTypes from 'prop-types'; // ES6
 const Blogs = ({handleBookMarks, handleTime}) => {
     const [blogs, setBlogs]=useState([]);
     useEffect(()=>{
-        fetch('../../.././public/Blogs.json')
+        fetch('/Blogs.json')
         .then(res=>res.json())
         .then(data=>setBlogs(data))
     },[])
